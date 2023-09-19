@@ -1,0 +1,34 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Que bom que você veio",
+      "autoria": "Leonardo",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "Estudando Angular",
+      "autoria": "Leonardo",
+      "modelo": "modelo3"
+    },
+    {
+      "id": 3,
+      "conteudo": "Aplicando Json Server",
+      "autoria": "Leonardo",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 4,
+      "conteudo": "sustentando função de editar pensamento",
+      "autoria": "Leonardo Pereira",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 5,
+      "conteudo": "Pensamento do teste 2",
+      "autoria": "Leonardo",
+      "modelo": "modelo3"
+    }
+  ]
+}
